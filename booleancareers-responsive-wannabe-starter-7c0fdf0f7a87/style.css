@@ -83,10 +83,8 @@ img {
 
 /* media query */
 
-
-/* lezioni */
-
 @media (max-width: 420px) {
+    /* blocco lezioni */
     #lezioni .row {
         margin-top: 0;
         padding-top: 10px;
@@ -109,12 +107,7 @@ img {
     #lezioni .row h3 {
         margin: 0;
     }
-}
-
-
-/* steps */
-
-@media (max-width: 420px) {
+    /* blocco steps */
     #steps .row {
         margin-top: 0;
     }
@@ -139,12 +132,7 @@ img {
     #steps .row h3 {
         margin: 0;
     }
-}
-
-
-/* why */
-
-@media (max-width: 420px) {
+    /* blocco why */
     #why .row {
         margin-top: 0;
         padding-bottom: 20px;
